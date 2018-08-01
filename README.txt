@@ -5,7 +5,7 @@ An original snake video game by Bella Christoffersen and Ely Merenstein.
 To run Sneake, you must first navigate your command prompt to the appropriate directory where you have stored the Sneake files. 
 In this directory, type 'javac *.java' and press enter to compile the code. 
 Once compiled, simply type 'java Sneake' to run the program. 
-You will be prompted to select a level, which may be a value between 1 and 4. 
+You will be prompted to select a level, which may be a value between 1 and 9. 
 
 -PLAYING THE GAME- 
 The goal of each map is to navigate the snake to the blue circle, while not touching the other objects in the map.
