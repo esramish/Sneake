@@ -1,0 +1,36 @@
+Target:
+sphere 400 100 20 20 0 255 255
+
+Blocking shortcut exit:
+sphere 350 100 30 30 255 0 255
+
+Left path: 
+Left border:
+rectangle 160 50 30 450 255 0 255
+Right border, below shortcut:
+rectangle 240 130 30 335 255 0 255
+Right border, above shortcut: 
+rectangle 240 50 30 20 255 0 255
+
+Bottom path: 
+Bottom border:
+rectangle 160 500 490 30 255 0 255
+Top border:
+rectangle 240 435 345 30 255 0 255
+
+Right path:
+Left border:
+rectangle 555 100 30 335 255 0 255
+Right border: 
+rectangle 620 65 30 465 255 0 255
+Top border (doubles as the overall top border):
+rectangle 160 35 490 30 255 0 255
+
+Shortcut: 
+Bottom border: 
+rectangle 240 130 77 30 255 0 255
+Top border:
+rectangle 240 68 77 30 255 0 255
+
+Remaining left border (top left area):
+rectangle 160 35 30 15 255 0 255

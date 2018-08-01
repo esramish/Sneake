@@ -1,0 +1,26 @@
+Target:
+sphere 110 200 30 30 0 255 0
+
+Box:
+Left border: 
+rectangle 160 116 20 200 255 0 0
+Top border:
+rectangle 180 116 100 20 255 0 0
+Bottom border:
+rectangle 180 296 100 20 255 0 0
+Top of right border:
+rectangle 280 116 20 50 255 0 0
+Bottom of right border:
+rectangle 280 266 20 50 255 0 0
+
+Path:
+Top border:
+rectangle 280 166 200 34 255 0 0
+Bottom border: 
+rectangle 280 232 200 34 255 0 0
+
+Overall border: 
+rectangle 0 0 800 30 255 0 0
+rectangle 0 0 30 600 255 0 0
+rectangle 770 0 30 600 255 0 0
+rectangle 0 570 800 30 255 0 0

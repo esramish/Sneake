@@ -1,0 +1,17 @@
+sphere 400 400 1 1 0 255 0
+sphere 100 395 10 10 0 255 0
+sphere 80 375 10 10 0 255 0
+sphere 60 355 10 10 0 255 0
+sphere 80 415 10 10 0 255 0
+sphere 60 435 10 10 0 255 0
+sphere 395 100 10 10 0 255 0
+sphere 375 80 10 10 0 255 0
+sphere 355 60 10 10 0 255 0
+sphere 415 80 10 10 0 255 0
+sphere 435 60 10 10 0 255 0
+
+Overall border: 
+rectangle 0 0 800 30 255 0 0
+rectangle 0 0 30 600 255 0 0
+rectangle 770 0 30 600 255 0 0
+rectangle 0 570 800 30 255 0 0

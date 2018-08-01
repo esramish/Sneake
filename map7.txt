@@ -1,0 +1,9 @@
+sphere 600 550 5 5 0 255 0
+rectangle 0 0 20 600 255 0 0
+rectangle 0 580 800 20 255 0 0
+rectangle 780 0 20 600 255 0 0
+rectangle 0 0 800 20 255 0 0
+sphere 0 400 350 1 0 0 0
+sphere 400 400 400 1 0 0 0
+rectangle 30 100 320 10 255 0 0
+rectangle 400 100 370 10 255 0 0
